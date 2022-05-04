@@ -1,4 +1,5 @@
 type Chain =
+  | "cronos"
   | "mainnet"
   | "ropsten"
   | "rinkeby"
